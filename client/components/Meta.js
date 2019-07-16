@@ -6,7 +6,7 @@ const Meta = () => (
     <meta charSet="utf-8" />
     <link rel="shortcut icon" href="/satic/favicon.png" />
     <link rel="stylesheet" type="text/css" href="/static/nprogress.css" />
-    <title>Shop Till You Drop</title>
+    <title>Shoes4U</title>
   </Head>
 );
 

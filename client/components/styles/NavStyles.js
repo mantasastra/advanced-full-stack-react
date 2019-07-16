@@ -63,3 +63,5 @@ const NavStyles = styled.ul`
     font-size: 1.5rem;
   }
 `;
+
+export default NavStyles;
